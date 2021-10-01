@@ -5,3 +5,4 @@ The project “Library Management System” is developed in C, which mainly focu
 This program can be run on the compiler like code blocks
 file_name.c compile it by clicking on compile or build and then run the program using alt+f4
 
+hope you like it!
